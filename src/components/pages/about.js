@@ -1,5 +1,5 @@
-import React from "react";
-import profilePic from "../../../static/assets/images/bio/new-profile.jpg";
+import React from "react"
+import profilePic from "../../../static/assets/images/bio/new-profile.jpg"
 
 export default function () {
   return (
@@ -37,5 +37,5 @@ export default function () {
         </p>
       </div>
     </div>
-  );
+  )
 }
